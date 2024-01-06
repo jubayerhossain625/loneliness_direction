@@ -1,0 +1,11 @@
+class AppString {
+  const AppString._();
+
+  static const String appName = "App Name";
+
+  // network Image
+  static const String selectImage="https://pixsector.com/cache/517d8be6/av5c8336583e291842624.png";
+  static const String networkImage = "https://i.ibb.co/JsZqFX9/photo-1535713875002-d1d0cf377fde.jpg";
+
+
+}
